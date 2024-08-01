@@ -9,7 +9,7 @@ Installation
 Usage
 Results
 Contributing
-License
+
 Introduction
 Loan prediction is a common problem in the banking sector where the goal is to predict whether a loan application will be approved based on applicant data. This project demonstrates the use of machine learning models to make such predictions.
 
